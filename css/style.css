@@ -1,0 +1,17 @@
+* {
+}
+
+body{
+  color: black;
+  background-color: #E1BE86;
+}
+
+h1{
+  font-family: "American Typewriter", Courier, serif;
+  text-align: center;
+  margin-top: 0.5in;
+  margin-bottom: 0.5in;
+  color: #F9F9F9;
+  background-color: transparent;
+  text-shadow: 2px 2px #6E5835;
+}
