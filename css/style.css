@@ -9,8 +9,8 @@ body{
 h1{
   font-family: "American Typewriter", Courier, serif;
   text-align: center;
-  margin-top: 0.5in;
-  margin-bottom: 0.5in;
+  margin-top: 50px;
+  margin-bottom: 50px;
   color: #F9F9F9;
   background-color: transparent;
   text-shadow: 2px 2px #6E5836;
@@ -39,4 +39,31 @@ button{
   font-size: 18px;
   width: 20vw;
   height: 40px;
+}
+
+p{
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vw;
+}
+
+.white-rice{
+  font-family: "American Typewriter", Courier, serif;
+  font-size: 18px;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+}
+
+.sprouted-rice{
+  font-family: "American Typewriter", Courier, serif;
+  font-size: 18px;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
 }
