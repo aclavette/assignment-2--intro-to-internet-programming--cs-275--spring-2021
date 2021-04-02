@@ -15,3 +15,20 @@ h1{
   background-color: transparent;
   text-shadow: 2px 2px #6E5836;
 }
+
+table{
+  color: transparent;
+  background-color: #FBE0B5;
+  border: 2px solid #7B6A4E;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th{
+  color: #5C3C07;
+  background-color: #FBE0B5;
+  font-family: "American Typewriter", Courier, serif;
+  width: 20vw;
+  border: 2px solid #7B6A4E;
+
+}
