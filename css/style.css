@@ -22,13 +22,21 @@ table{
   border: 2px solid #7B6A4E;
   margin-left: auto;
   margin-right: auto;
+  height: 50px;
 }
 
 th{
-  color: #5C3C07;
+  color: #382506;
+  background-color: #FBE0B5;
+  width: 20vw;
+
+}
+
+button{
+  color: #382506;
   background-color: #FBE0B5;
   font-family: "American Typewriter", Courier, serif;
+  font-size: 18px;
   width: 20vw;
-  border: 2px solid #7B6A4E;
-
+  height: 40px;
 }
