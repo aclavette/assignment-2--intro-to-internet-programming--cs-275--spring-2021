@@ -17,6 +17,23 @@
   },
   "homepage": "https://github.com/aclavette/assignment-2--intro-to-internet-programming--cs-275--spring-2021#readme",
   "devDependencies": {
-    "eslint": "^7.23.0"
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^7.23.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cache": "^1.1.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-html": "^0.5.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-stylelint": "^13.0.0",
+    "stylelint": "^13.12.0"
   }
 }
