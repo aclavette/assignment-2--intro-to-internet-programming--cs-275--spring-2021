@@ -1,71 +1,71 @@
-* {
-}
-
-body{
+body {
   color: black;
-  background-color: #E1BE86;
+  background-color: #e1be86;
 }
 
-h1{
-  font-family: "American Typewriter", Courier, serif;
+h1 {
+  font-family: 'American Typewriter', Courier, serif;
   text-align: center;
   margin-top: 50px;
   margin-bottom: 50px;
-  color: #F9F9F9;
+  color: #f9f9f9;
   background-color: transparent;
-  text-shadow: 2px 2px #6E5836;
+  text-shadow: 2px 2px #6e5836;
 }
 
-table{
+table {
   color: transparent;
-  background-color: #FBE0B5;
-  border: 2px solid #7B6A4E;
+  background-color: #fbe0b5;
+  border: 2px solid #7b6a4e;
   margin-left: auto;
   margin-right: auto;
   height: 50px;
 }
 
-th{
+th {
   color: #382506;
-  background-color: #FBE0B5;
+  background-color: #fbe0b5;
   width: 20vw;
-
 }
 
-button{
+button {
   color: #382506;
-  background-color: #FBE0B5;
-  font-family: "American Typewriter", Courier, serif;
+  background-color: #fbe0b5;
+  font-family: 'American Typewriter', Courier, serif;
   font-size: 18px;
   width: 20vw;
   height: 40px;
 }
 
-p{
-  font-family: "American Typewriter", Courier, serif;
+p {
+  font-family: 'American Typewriter', Courier, serif;
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
   width: 50vw;
 }
 
-form{
-  color: #382506;
-  background-color: transparent;
-  font-family: "American Typewriter", Courier, serif;
-  visibility: hidden;
+.result {
   text-align: center;
+}
+
+.instructions {
+  font-family: 'American Typewriter', Courier, serif;
+  font-size: 18px;
   margin-left: auto;
   margin-right: auto;
   left: 0;
   right: 0;
 }
 
-.instructions{
-  font-family: "American Typewriter", Courier, serif;
-  font-size: 18px;
-  margin-left: auto;
-  margin-right: auto;
+form {
+  color: #382506;
+  background-color: transparent;
+  font-family: 'American Typewriter', Courier, serif;
+  visibility: hidden;
+  text-align: center;
+  margin-left: 30vw;
+  margin-right: 30vw;
   left: 0;
   right: 0;
 }

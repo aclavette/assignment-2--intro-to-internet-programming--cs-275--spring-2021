@@ -14,21 +14,21 @@
       <table>
         <tr>
           <th>
-            <button type="button" onclick="whiterice()">White Rice</button>
+            <button type="button" id="whiterice">White Rice</button>
           </th>
           <th>
-            <button type="button" onclick="sproutedrice()">Sprouted California Rice</button>
+            <button type="button" id="sproutedrice">Sprouted California Rice</button>
           </th>
         </tr>
       </table>
       <p id="content" class="instructions"></p>
 
       <form id="form">
-        <label for="rice">How many cups of rice are you making?</label><br>
-        <input type="text" id="rice">
+        <label for="rice"><b>How many cups of rice are you making?</b></label><br>
+        <input id="rice" type="text" onkeyup="calculate()">
       </form>
 
-      <p id="result"></p>
+      <p id="result" class="instructions"></p>
     </main>
 </body>
 </html>
