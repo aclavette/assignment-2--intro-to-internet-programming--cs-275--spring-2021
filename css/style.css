@@ -19,7 +19,7 @@ table {
   border: 2px solid #7b6a4e;
   margin-left: auto;
   margin-right: auto;
-  height: 50px;
+  height: 6vh;
 }
 
 th {
@@ -32,9 +32,9 @@ button {
   color: #382506;
   background-color: #fbe0b5;
   font-family: 'American Typewriter', Courier, serif;
-  font-size: 18px;
+  font-size: 2vw;
   width: 20vw;
-  height: 40px;
+  height: 75px;
 }
 
 p {
